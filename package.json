@@ -1,0 +1,8 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Himself65/resume.git",
+  "author": "himself65 <himself65@outlook.com>",
+  "license": "MIT"
+}
